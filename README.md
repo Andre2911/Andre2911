@@ -15,7 +15,7 @@ Full Stack Developer with a strong focus on mobile applications using Jetpack Co
   
 - 🧠 Know more about my journey through my pinned repositories.
   
-- 🌐 Visit my [portfolio website](https//www.andreguevara.dev/en) to learn more or get in touch.
+- 🌐 Visit my [portfolio website](https://www.andreguevara.dev/en) to learn more or get in touch.
 
 <br>
 
@@ -70,6 +70,6 @@ Full Stack Developer with a strong focus on mobile applications using Jetpack Co
 
 <br>
 
-<p align="right">Created with 🧡 by <a href="http://www.andreguevara.dev">Jonathan Andre Guevara Layme</a></p>
+<p align="right">Created with 🧡 by <a href="https://www.andreguevara.dev">Jonathan Andre Guevara Layme</a></p>
 
 <!-- Technologies: Jetpack Compose, Spring Boot, LangChain, React, Angular, PostgreSQL, Firebase, AWS -->
